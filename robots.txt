@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aibethiif.gc2.at/sitemap.xml
